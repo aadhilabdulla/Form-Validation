@@ -106,6 +106,14 @@ input:hover{
     text-align: center;
 }
 
+.submit{
+    /* border: solid black; */
+    height: 7vh;
+    width: 50%;
+    text-align: center;
+}
+
+
 button{
     padding-left: 4%;
     padding-right: 4%;
@@ -115,6 +123,7 @@ button{
     font-size: 15px;
     font-weight: bold;
     transition: 0.3s;
+
 }
 
 
